@@ -74,7 +74,7 @@ var QuizUI = {
 };
 
 var questions = [
-    new Question("Which planet has most moons ?", ["Jupiter", "Saturn", "Uranus", "Mars"], "Saturn"),
+    new Question("Who is Emily's Crush ?", ["Oscar", "oscar", "OSCAR", "Esme"], "OSCAR"),
     new Question("What country has won the most world cups ?", ["Brazil", "Germany", "Argentina", "Italy"], "Brazil"),
     new Question("How many bones are in a human ear ?", ["8", "14", "5", "3"], "3"),
     new Question("Which Netfilx show had the most streaming views in 2021 ?", ["The Witcher", "Arcane:League of Legends", "Squid Game", "Midnight Mass"], "Squid Game"),
